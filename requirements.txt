@@ -27,3 +27,4 @@ nltk==3.7
 kaggle==1.5.12
 
 streamlit_option_menu 
+cv2
