@@ -19,7 +19,6 @@ import plotly.figure_factory as ff
 from matplotlib import container
 # mapas interactivos.
 import geopandas as gpd
-from branca.colormap import LinearColormap
 import streamlit.components.v1 as components
 import plotly.graph_objs as go
 import chart_studio.plotly as py
