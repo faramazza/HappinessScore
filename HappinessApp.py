@@ -16,7 +16,6 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 import plotly.express as px
 import plotly.figure_factory as ff
-from cv2 import transpose
 from matplotlib import container
 # mapas interactivos.
 import geopandas as gpd
